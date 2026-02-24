@@ -34,13 +34,9 @@
 
 <h2>GO Projects</h2>
 <ul style="list-style-type:square">
-  <li><a href="#">Number Guessing Game</a></li>
-  <li><a href="#">To-Do List CLI Application</a></li>
-  <li><a href="#">Simple HTTP Server</a></li>
-  <li><a href="#">REST API Example</a></li>
-  <li><a href="#">JSON Reader & Writer</a></li>
-  <li><a href="#">File Processing Tool</a></li>
-  <li><a href="#">Basic CRUD Application</a></li>
+  <li><a href="https://github.com/SelcanTaylan/GO/tree/main/numberPrediction">Number Guessing Game</a></li>
+  <li><a href="https://github.com/SelcanTaylan/GO/tree/main/drivingLicence">Driver's License Project According To Age</a></li>
+  <li><a href="https://github.com/SelcanTaylan/GO/tree/main/helloWorld">hello world project</a></li>
 </ul>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1010">
